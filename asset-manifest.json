@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css",
-    "main.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.2bd2dc36.chunk.js",
-    "main.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.2bd2dc36.chunk.js.map",
+    "main.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.f6c4ce0d.chunk.js",
+    "main.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.f6c4ce0d.chunk.js.map",
     "runtime-main.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.c91a7606.js",
     "runtime-main.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.c91a7606.js.map",
-    "static/js/2.8b777980.chunk.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.8b777980.chunk.js",
-    "static/js/2.8b777980.chunk.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.8b777980.chunk.js.map",
+    "static/js/2.89606cf1.chunk.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js",
+    "static/js/2.89606cf1.chunk.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.map",
     "index.html": "/StanLachie/Food4U-WebDev-Week-1-Challenge/index.html",
     "static/css/main.f7086ba2.chunk.css.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css.map",
-    "static/js/2.8b777980.chunk.js.LICENSE.txt": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.8b777980.chunk.js.LICENSE.txt"
+    "static/js/2.89606cf1.chunk.js.LICENSE.txt": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c91a7606.js",
-    "static/js/2.8b777980.chunk.js",
+    "static/js/2.89606cf1.chunk.js",
     "static/css/main.f7086ba2.chunk.css",
-    "static/js/main.2bd2dc36.chunk.js"
+    "static/js/main.f6c4ce0d.chunk.js"
   ]
 }
