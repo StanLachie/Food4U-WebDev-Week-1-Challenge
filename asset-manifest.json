@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css",
-    "main.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.142788b8.chunk.js",
-    "main.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/main.142788b8.chunk.js.map",
-    "runtime-main.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.c91a7606.js",
-    "runtime-main.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.c91a7606.js.map",
-    "static/js/2.89606cf1.chunk.js": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js",
-    "static/js/2.89606cf1.chunk.js.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.map",
-    "index.html": "/StanLachie/Food4U-WebDev-Week-1-Challenge/index.html",
-    "static/css/main.f7086ba2.chunk.css.map": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css.map",
-    "static/js/2.89606cf1.chunk.js.LICENSE.txt": "/StanLachie/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.LICENSE.txt"
+    "main.css": "/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css",
+    "main.js": "/Food4U-WebDev-Week-1-Challenge/static/js/main.142788b8.chunk.js",
+    "main.js.map": "/Food4U-WebDev-Week-1-Challenge/static/js/main.142788b8.chunk.js.map",
+    "runtime-main.js": "/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.0ec2a3ae.js",
+    "runtime-main.js.map": "/Food4U-WebDev-Week-1-Challenge/static/js/runtime-main.0ec2a3ae.js.map",
+    "static/js/2.89606cf1.chunk.js": "/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js",
+    "static/js/2.89606cf1.chunk.js.map": "/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.map",
+    "index.html": "/Food4U-WebDev-Week-1-Challenge/index.html",
+    "static/css/main.f7086ba2.chunk.css.map": "/Food4U-WebDev-Week-1-Challenge/static/css/main.f7086ba2.chunk.css.map",
+    "static/js/2.89606cf1.chunk.js.LICENSE.txt": "/Food4U-WebDev-Week-1-Challenge/static/js/2.89606cf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c91a7606.js",
+    "static/js/runtime-main.0ec2a3ae.js",
     "static/js/2.89606cf1.chunk.js",
     "static/css/main.f7086ba2.chunk.css",
     "static/js/main.142788b8.chunk.js"
